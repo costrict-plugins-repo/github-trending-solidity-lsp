@@ -1,0 +1,10 @@
+{
+  "name": "solidity-lsp",
+  "description": "Solidity language server for Claude Code — go-to-definition, diagnostics, hover, autocomplete, and formatting for .sol files",
+  "version": "1.0.0",
+  "author": {
+    "name": "Alex Khodyrev",
+    "email": "alex.khodyrev@hotmail.com"
+  },
+  "license": "Apache-2.0"
+}

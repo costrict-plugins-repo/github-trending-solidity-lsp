@@ -1,0 +1,9 @@
+{
+  "solidity": {
+    "command": "nomicfoundation-solidity-language-server",
+    "args": ["--stdio"],
+    "extensionToLanguage": {
+      ".sol": "solidity"
+    }
+  }
+}
